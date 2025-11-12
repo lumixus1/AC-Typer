@@ -41,5 +41,5 @@ if it starts typing but it doesnt detect the Inputs in Dolphin
 
 if it starts typing something wrong
 
--Make sure that before you press start, your ingame keyboard is on lowercase letter
--Make sure that you selected the right keyboard language (if your language isnt there, select "english". If it still doesnt work reach me out on discord: lumixus1)
+- Make sure that before you press start, your ingame keyboard is on lowercase letter
+- Make sure that you selected the right keyboard language (if your language isnt there, select "english". If it still doesnt work reach me out on discord: lumixus1)
