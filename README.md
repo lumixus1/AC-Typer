@@ -32,7 +32,7 @@ If you see errors:
 
 if it starts typing but it doesnt detect the Inputs in Dolphin
 
-- Move the xbox.ini into "C:\Users\USER\AppData\Roaming\Dolphin Emulator\Config\Profiles\GCPad" if the GCPad folder doesnt exist, just create it. If the Profile folder isnt showing then u have to make a profile first.: 
+- Move the xbox.ini into "C:\Users\USER\AppData\Roaming\Dolphin Emulator\Config\Profiles\GCPad" if the GCPad folder doesnt exist, just create it. If the Profile folder isnt showing then u have to make a profile first: 
 	- in dolphin emulator press on controller
 	- then next to port 1, press on configure
 	- in the upper right you should see an input field with a load, save and delete button
