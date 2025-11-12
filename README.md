@@ -9,8 +9,7 @@ A tool for automatically typing Nook Codes in Animal Crossing. Works with Dolphi
 ## Installation
 
 
--Install the zip in the releases
-
+- Install the zip in the releases
 - Unzip it
 - Run the bat file
 - Enter the code in the text field in the programm
