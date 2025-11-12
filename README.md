@@ -2,15 +2,22 @@
 If you're tired of typing all your Nook Codes manually, I’ve got you covered! AC Typer does it for you - just run the program, enter your code, and it will type it out automatically.
 
 
-HOW TO USE IT:
+How to Use
 
--Open ac_type.exe (or use the bat file if the exe doesnt work)
--Type in the nook code (make sure that it doesnt have any spaces. it should be a straight line)
--Go to nook in game and tell him u want to tell him a code
--Switch in dolphin emulator the controller to xbox360
--Press the keybind you have set (default J) to start
--Wait till its done
+1 Open ac_type.exe (or use the .bat file if the .exe doesn’t work).
 
-IF YOU HAVE PROBLEMS, READ THE "README.txt"
+2 Type in your Nook Code (make sure there are no spaces — it should be a single continuous line).
 
-IF YOU STILL HAVE PROBLEMS REACH ME OUT ON DISCORD: lumixus1
+3 In-game, talk to Nook and tell him you want to enter a code.
+
+4 In Dolphin Emulator, switch the controller to Xbox 360.
+
+5 Press your keybind (default is J) to start.
+
+6 Wait until it’s finished typing.
+
+
+
+If you run into issues, read the "README.txt" file first.
+
+If you’re still having problems, reach out to me on Discord: lumixus1
