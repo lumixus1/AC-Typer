@@ -1,5 +1,5 @@
 # AC-Typer
-If you're tired of typing all your Nook Codes manually, I got you! AC Typer does it for you - just run the program, enter your code, and it will type it out automatically.
+If you're tired of typing all your Nook Codes manually, I got you. AC Typer does it for you - just run the program, enter your code, and it will type it out automatically.
 
 
 How to Use
@@ -21,3 +21,5 @@ How to Use
 If you run into issues, read the "README.txt" file first.
 
 If you’re still having problems, reach out to me on Discord: lumixus1
+
+(yes this program was made using AI. cry about it. it works)
