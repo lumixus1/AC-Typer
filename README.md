@@ -12,7 +12,7 @@ How to Use
 
 4 In Dolphin Emulator, switch the controller to Xbox 360.
 
-5 Press your keybind (default is J) to start.
+5 Press your keybind (default is F1) to start.
 
 6 Wait until it’s finished typing.
 
